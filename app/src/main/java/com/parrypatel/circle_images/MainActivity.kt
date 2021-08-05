@@ -31,7 +31,7 @@ class MainActivity : AppCompatActivity(), CircleClickListener {
     }
 
     private fun createButtons() {
-        val length = 8
+        val length = 3
         val angle = 360 / (length + 1)
         for (i in 0..length) {
             val linearLayout = LinearLayout(this)
