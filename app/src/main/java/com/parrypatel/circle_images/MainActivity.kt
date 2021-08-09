@@ -21,7 +21,7 @@ import java.util.*
  *
  */
 class MainActivity : AppCompatActivity(), CircleClickListener {
-
+//Changes Test
     private val linearList = arrayListOf<LinearLayout>()
 
     override fun onCreate(savedInstanceState: Bundle?) {
